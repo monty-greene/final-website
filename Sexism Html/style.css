@@ -1,10 +1,20 @@
 #content {
     float: left; 
-    background-color: red;
-    height: 1000 px;
-    width: 70%;
+    background-color: blueviolet;
+    height: 2000 px;
+    width: 50%;
     font: 30;
 }
+body {
+    background: red;
     
+}
 
+#content2 {
+    float: right;
+    background-color: green;
+    height: 950 px;
+    width: 50%;
+    font: 50;
+}
     
