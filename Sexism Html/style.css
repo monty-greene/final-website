@@ -1,4 +1,4 @@
-#content {
+#content {background-color:aquamarine;
     float: left; 
     background-color: blueviolet;
     height: 2000 px;
@@ -7,14 +7,49 @@
 }
 body {
     background: red;
-    
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
 }
 
 #content2 {
     float: right;
     background-color: green;
-    height: 950 px;
+    height: 1000 px;
     width: 50%;
     font: 50;
 }
     
+#content3 {
+    float: center;
+    background-color: aquamarine;
+    width: 100%;
+    height:auto;
+    
+}
+
+
+#menu {
+    background-color: gold;
+    padding: 5px; 
+}
+
+
+
+#color {
+    height: 1000px;
+    background-color: darkred;
+    width: 50%;
+display: block;
+    position: absolute;
+}
+
+#description {
+    height: 100000px;
+    float: right;
+    background-color: blue;
+    width: 50%;
+    color: white;
+    font-size: 1.20pc;
+}
